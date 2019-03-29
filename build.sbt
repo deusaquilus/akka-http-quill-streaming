@@ -1,6 +1,6 @@
 lazy val `akka-http-quill` = (project in file("."))
   .settings(
-    name := "akka-test-quill-reactive",
+    name := "akka-test-quill-streaming",
   	organization := "io.getquill",
   	scalaVersion := "2.11.12",
   	libraryDependencies ++= Seq(
