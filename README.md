@@ -1,4 +1,4 @@
-# Trivial Example of Quill with Akka Streaming (via Monix)
+# Simple Example of Quill with Akka Streaming (via Monix)
 
 See `AkkaHttpTestReactive.scala`. 
 
